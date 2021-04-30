@@ -1,0 +1,12 @@
+﻿prod_id,,,prod_cat,,,prod_type,,,prod_col,,,prod_size,,,stock,,,prod_cost,,,selling_price
+,,,,,,,,,,,,,,,,,,,,,
+1,,,Hoodie,,,printed,,,white,,,L,,,90,,,599,,,799
+2,,,Formal,,,plain,,,Grey,,,M,,,75,,,499,,,699
+3,,,Blazer,,,printed,,,black,,,M,,,40,,,699,,,899
+4,,,Tshirt,,,floral,,,orange,,,XL,,,60,,,399,,,599
+5,,,Blazer,,,plain,,,blue,,,S,,,30,,,999,,,1299
+6,,,Hoodie,,,printed,,,yellow,,,M,,,50,,,1199,,,1399
+7,,,Tshirt,,,floral,,,brown,,,S,,,80,,,899,,,1199
+8,,,Formal,,,plain,,,red,,,L,,,45,,,299,,,499
+9,,,Hoodie,,,pattern,,,camouflage,,,XL,,,100,,,799,,,999
+10,,,Blazer,,,plain,,,cream,,,L,,,25,,,1299,,,1499
